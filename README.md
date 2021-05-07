@@ -139,3 +139,11 @@ module.exports = {
 [![g3eMq0.png](https://z3.ax1x.com/2021/05/07/g3eMq0.png)](https://imgtu.com/i/g3eMq0)
 
 
+#### 最后使用Nginx进行反代
+
+1、先安装个宝塔吧，毕竟这样Nginx,Mysql就都有了
+
+2、创建网站 -> 反向代理[127.0.0.1:3000] 
+
+
+
